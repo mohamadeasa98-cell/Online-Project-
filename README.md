@@ -180,12 +180,12 @@
   </style>
   <script>
     setTimeout(() => {
-      window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      window.location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
     }, 3000);
 
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
-      location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
     };
   </script>
 
@@ -229,7 +229,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "https://.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      const directLink = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
 
       const container = document.body;images.forEach((img, index) => {
 
