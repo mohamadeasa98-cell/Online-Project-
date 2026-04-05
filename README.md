@@ -229,7 +229,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      const directLink = "https://.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
 
       const container = document.body;images.forEach((img, index) => {
 
