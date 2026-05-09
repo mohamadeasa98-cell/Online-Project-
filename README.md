@@ -180,11 +180,11 @@
   </style>
   <script>
     setTimeout(() => {
-      window.location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
+      window.location.href = "https://viefaucet.com";
     },, 000);
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
-      location.href = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
+      location.href = "https://viefaucet.com";
     };
   </script>
 
@@ -228,7 +228,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "https://www.profitablecpmratenetwork.com/q4pxj3cnyp?key=10d6bd6cfffb4ee0a83d093b5f06486b";
+      const directLink = "https://offerwallmedia.com/publisher/account.html";
 
       const container = document.body;images.forEach((img, index) => {
 
